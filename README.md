@@ -14,5 +14,6 @@ After the .bat file is generated, all you need to do is just run over and over t
 
 # Closing statement
 
-By utilizing CopyPaster, manual copying and pasting tasks are alleviated, resulting in saved time and effort. \
+By utilizing CopyPaster, manual copying and pasting tasks are alleviated, resulting in saved time and effort. 
+
 Please don't hesitate to reach out if you have any further inquiries or require additional assistance!
