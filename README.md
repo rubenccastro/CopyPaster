@@ -3,7 +3,7 @@ CopyPaster is a tool designed to facilitate the repetitive copying and pasting o
 This tool simplifies the process by automatically generating a .bat file.
 
 ## Usage
-ATENTION: It copies the content inside the file e.g. <code> E:\Test-1\Content-Inside-File </code>.
+ATENTION: It copies the content inside the file e.g. <code> E:\Test-1\Content-Inside-Test-1 </code>.
  - Begin by copying the path of the file you wish to copy e.g. <code> E:\Test-1\ </code> and paste the copied source path into the designated input. 
  - Similarly, copy the destination path e.g. <code> E:\Test-2\ </code> and paste the copied source path into the designated input.
 
